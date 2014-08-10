@@ -1,0 +1,5 @@
+E:\Work\Projects\github\GraphicsProcessor\GraphicsProcessor\obj\Debug\GraphicsProcessor.csprojResolveAssemblyReference.cache
+E:\Work\Projects\github\GraphicsProcessor\GraphicsProcessor\bin\Debug\GraphicsProcessor.dll
+E:\Work\Projects\github\GraphicsProcessor\GraphicsProcessor\bin\Debug\GraphicsProcessor.pdb
+E:\Work\Projects\github\GraphicsProcessor\GraphicsProcessor\obj\Debug\GraphicsProcessor.dll
+E:\Work\Projects\github\GraphicsProcessor\GraphicsProcessor\obj\Debug\GraphicsProcessor.pdb
